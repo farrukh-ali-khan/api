@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Debug logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binary addons
+build/Release
+
+# Dependency lock file
+package-lock.json
