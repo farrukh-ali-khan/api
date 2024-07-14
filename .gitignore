@@ -45,3 +45,4 @@ temp/
 # This is not recommended if you want consistent builds across environments
 # package-lock.json
 # yarn.lock
+node_modules/
