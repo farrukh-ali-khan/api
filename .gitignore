@@ -1,0 +1,47 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables file
+.env
+
+# Production files
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Vercel deployment files
+.vercel
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Jest testing output
+coverage/
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# Temporary files
+tmp/
+temp/
+
+# Ignore local MongoDB database files (if applicable)
+*.local
+
+# Ignore package-lock.json or yarn.lock (optional, depending on team/project practices)
+# This is not recommended if you want consistent builds across environments
+# package-lock.json
+# yarn.lock
